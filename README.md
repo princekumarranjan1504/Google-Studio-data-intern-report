@@ -10,3 +10,6 @@
 8.Out of the total hired students - what percentage were Interns & Full Timer (Add record count and percentage)
 9.Find out under which salary package were the maximum number of students hired
 10.Create a table with batch wise average package
+
+
+https://lookerstudio.google.com/reporting/33c30d83-30ba-4c71-a888-b2337ace59cc
