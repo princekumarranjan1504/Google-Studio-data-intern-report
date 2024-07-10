@@ -1,5 +1,7 @@
 # Google-Studio-data-intern-report
 
+# Report creating using this information
+
 1.Given data has the list of all IIDE students who have opted for Placements from our different PG Batches.
 2.The status and the company they were hired at are given.
 
